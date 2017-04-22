@@ -1,0 +1,13 @@
+.bottone_tumblr{
+    border-color: #529ecc;
+    background-color: #529ecc;
+    color: hsla(0,0%,100%,.5);
+    cursor: default;
+    border-width: 0px;
+    font-style: bold;
+    border-radius: 2px;
+    padding: 8px 8px 8px 8px;
+    font-size: 16px;
+
+}
+
